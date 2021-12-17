@@ -1,0 +1,7 @@
+Run	--	Total reads	PF Reads	% reads identified	% reads undetermined	CV	min	max	Cycles	Yield	Projected Yield	Aligned (%)	Error Rate (%)	Intensity Cycle 1	% ≥Q30	Lane	Read	Cluster PF (%)	% ≥Q30	Yield	Error Rate%	Reads PF	Density	Tiles	Legacy Phas/Prephas (%)	Intensity	Comments	Status
+
+
+
+Run.DateCreated
+SequencingStatsCompact.ReadsTotal
+
